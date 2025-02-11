@@ -24,7 +24,6 @@ module:
   lunr: 0
   lunr_facet_example: 0
   metatag: 0
-  metatag_custom_tags: 0
   metatag_facebook: 0
   metatag_favicons: 0
   metatag_google_cse: 0
