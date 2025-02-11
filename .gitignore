@@ -4,3 +4,5 @@
 .idea
 /.editorconfig
 /.gitattributes
+!/web/themes/custom/mortenson/templates
+!/web/modules/custom/mortenson_components
