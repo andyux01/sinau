@@ -1,0 +1,20 @@
+uuid: b22b9262-0950-4d9f-9582-73b53f3ee9ab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sL588ui1E_8-2c_UupwyYxcqX2OVyMFp3HTLbbFqvPc
+id: global
+label: Global
+tags:
+  title: '[current-page:title] | [site:name]'
+  canonical_url: '[current-page:url]'
+  description: 'The homepage for Samuel Mortenson - you can call me Sam.'
+  og_url: '[current-page:url:absolute]'
+  og_site_name: '[site:name]'
+  og_title: '[current-page:title]'
+  twitter_cards_creator: '@mortensonsam'
+  twitter_cards_site: '@mortensonsam'
+  twitter_cards_page_url: '[current-page:url:absolute]'
+  twitter_cards_type: summary
+  twitter_cards_title: '[current-page:title]'
