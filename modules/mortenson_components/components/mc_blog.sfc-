@@ -2,16 +2,8 @@
   <article class="mc-blog container container--margin" role="article">
     {% include 'sfc--mc-blog-title' with {'title': title} %}
     <div class="mc-blog__byline">
-      <div>
       {{ time | date('M jS, Y') }}
-      </div>
-      <div>
-      {% for tag in tags %}
-        <a class="bk-blog__tag" href="{{ url('<front>') }}search?tag={{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      </div>
     </div>
-
     <div class="mc-blog__text">
       {{ text }}
     </div>
@@ -20,9 +12,6 @@
 
 <style>
   .mc-blog__byline {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     grid-row: 2;
     grid-column: 2 / 11;
     font-weight: var(--font-weight-semibold);
