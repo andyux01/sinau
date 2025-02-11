@@ -1,0 +1,23 @@
+uuid:
+  - value: 09953d72-85ca-4e9d-983b-3bf46a25f670
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: favicon_2.png
+uri:
+  - value: 'temporary://favicon_2.png'
+filemime:
+  - value: image/png
+filesize:
+  - value: 5322
+status:
+  - value: false
+created:
+  - value: '2025-02-11T15:03:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-11T15:03:41+00:00'
+    format: 'Y-m-d\TH:i:sP'

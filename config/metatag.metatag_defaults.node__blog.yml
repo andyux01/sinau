@@ -1,0 +1,8 @@
+uuid: ddd34e95-d3f6-4f51-8e42-353560e3b6af
+langcode: en
+status: true
+dependencies: {  }
+id: node__blog
+label: 'Content: Blog'
+tags:
+  keywords: '[node:field_tags]'
