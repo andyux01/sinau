@@ -18,6 +18,6 @@ tags:
   og_url: '[current-page:url:absolute]'
   title: '[current-page:title] | [site:name]'
   twitter_cards_creator: '@cintaulamaihsan'
-  twitter_cards_site: '@mortensonsam'
+  twitter_cards_site: '@cintaulamaihsan'
   twitter_cards_title: '[current-page:title]'
   twitter_cards_type: summary
