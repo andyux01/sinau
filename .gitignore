@@ -4,3 +4,6 @@
 .idea
 /.editorconfig
 /.gitattributes
+!/web/modules/custom/mortenson_components/*.sfc
+!/web/themes/custom/mortenson/templates/*.html.twig
+

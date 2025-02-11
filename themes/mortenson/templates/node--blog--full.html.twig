@@ -1,6 +1,17 @@
+{% set tags = [] %}
+{% for key,tag in node.field_tags %}
+  {% if tag.entity.bundle() == "tags" %}
+    {% set tags = tags|merge([tag.entity.label()]) %}
+    {{ sfc_cache(tag.entity) }}
+  {% endif %}
+{% endfor %}
 {% include 'sfc--mc-blog' with {
   'title': node.label(),
   'time': node.created.value,
+  'tags': 'node.field_tags',
+  'image': node.field_image
+    |field_target_entity
+    |field_file_image_url,
   'text': node.body|view({
     'label': 'hidden',
     'type': 'text_default',
