@@ -4,8 +4,9 @@ features:
   comment_user_verification: true
   favicon: 1
 logo:
-  use_default: 1
-favicon:
   use_default: 0
+  path: 'public://favicon_3.png'
+favicon:
+  use_default: 1
   path: themes/custom/mortenson/favicon.png
   mimetype: image/png
