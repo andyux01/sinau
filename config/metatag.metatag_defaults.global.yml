@@ -7,14 +7,17 @@ _core:
 id: global
 label: Global
 tags:
-  title: '[current-page:title] | [site:name]'
   canonical_url: '[current-page:url]'
-  description: 'The homepage for Samuel Mortenson - you can call me Sam.'
-  og_url: '[current-page:url:absolute]'
+  description: 'The homepage for Andy Yulianto - you can call me Pak Andy.'
+  image_src: /sites/default/files/gallery/foto%20Andy.png
+  keywords: '[node:field_tags]'
+  og_image: default/files/default_images/gathering-rumah-property-tuwo.jpg
+  og_image_url: default/files/gallery/foto%20Andy.png
   og_site_name: '[site:name]'
   og_title: '[current-page:title]'
-  twitter_cards_creator: '@mortensonsam'
+  og_url: '[current-page:url:absolute]'
+  title: '[current-page:title] | [site:name]'
+  twitter_cards_creator: '@cintaulamaihsan'
   twitter_cards_site: '@mortensonsam'
-  twitter_cards_page_url: '[current-page:url:absolute]'
-  twitter_cards_type: summary
   twitter_cards_title: '[current-page:title]'
+  twitter_cards_type: summary
