@@ -10,7 +10,7 @@ preferred_admin_langcode: {  }
 name:
   - value: andy
 mail:
-  - value: admin@example.com
+  - value: andy@propertysyariah.biz.id
 timezone:
   - value: Asia/Jakarta
 status:
@@ -19,7 +19,7 @@ created:
   - value: '2020-01-14T17:07:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2025-02-12T02:38:12+00:00'
+  - value: '2025-02-12T03:06:59+00:00'
     format: 'Y-m-d\TH:i:sP'
 roles: {  }
 default_langcode:
@@ -28,4 +28,3 @@ path:
   - alias: ''
     pid: null
     langcode: en
-    pathauto: 0
