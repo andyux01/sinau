@@ -7,14 +7,16 @@ _core:
 id: global
 label: Global
 tags:
-  title: '[current-page:title] | [site:name]'
   canonical_url: '[current-page:url]'
-  description: 'The homepage for Samuel Mortenson - you can call me Sam.'
-  og_url: '[current-page:url:absolute]'
+  description: 'The homepage for Andy Yulianto - you can call me Pak Andy.'
+  keywords: '[node:field_tags]'
+  og_image: '[node:field_image:social:url]'
   og_site_name: '[site:name]'
   og_title: '[current-page:title]'
+  og_url: '[current-page:url:absolute]'
+  shortcut_icon: '/system/temporary?file=favicon_3.png'
+  title: '[current-page:title] | [site:name]'
   twitter_cards_creator: '@mortensonsam'
   twitter_cards_site: '@mortensonsam'
-  twitter_cards_page_url: '[current-page:url:absolute]'
-  twitter_cards_type: summary
   twitter_cards_title: '[current-page:title]'
+  twitter_cards_type: summary
