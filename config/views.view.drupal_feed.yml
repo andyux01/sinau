@@ -5,9 +5,39 @@ dependencies:
   config:
     - field.storage.node.body
     - node.type.blog
+    - node.type.gallery_item
+    - node.type.work
     - taxonomy.vocabulary.tags
   content:
+    - 'taxonomy_term:tags:014c4ca5-dde8-46da-8264-917b64611bd1'
+    - 'taxonomy_term:tags:0532c576-4d50-4132-84c5-3efcaffebe1f'
+    - 'taxonomy_term:tags:0c37a2b4-8006-4aa0-a9cb-ed71f1f390ce'
+    - 'taxonomy_term:tags:10efe6cc-fa0a-4066-afee-dcaf17e0d82d'
+    - 'taxonomy_term:tags:110baeea-ce49-4b42-bf2f-3ffab9af4c22'
+    - 'taxonomy_term:tags:12a6d541-c818-40f6-8ee8-6fba5fba2a56'
+    - 'taxonomy_term:tags:209756da-e363-41cc-b28f-34f4b20160bd'
+    - 'taxonomy_term:tags:23b07c20-ef0f-49f3-8dba-f3b1daa50c5e'
+    - 'taxonomy_term:tags:284cdabe-43a8-4bcc-a611-8e1bbdaf1981'
+    - 'taxonomy_term:tags:2a152221-9ded-4067-9cd4-944aec19b78f'
+    - 'taxonomy_term:tags:3b5c4a61-bde5-43f7-b75e-6460396752e2'
+    - 'taxonomy_term:tags:40f89116-30f1-4ab4-90e1-78974ad74dda'
+    - 'taxonomy_term:tags:457b0d67-f472-4014-b68a-e190cb133ac0'
+    - 'taxonomy_term:tags:48438313-b3f0-4f22-b06c-191e770a5b84'
+    - 'taxonomy_term:tags:5b166155-9b46-4d2c-a392-dede5b4edc73'
+    - 'taxonomy_term:tags:6fa8851a-114e-478c-9cdf-63dc347958b8'
+    - 'taxonomy_term:tags:78bd04dc-2dd3-494b-b60b-595abe4e8a19'
+    - 'taxonomy_term:tags:7e282673-f93d-49a7-bf98-49ff7ef4e7e4'
+    - 'taxonomy_term:tags:8ddd3b39-b7c4-4211-8bb3-b76237bcade8'
+    - 'taxonomy_term:tags:b6f7fe71-bb69-49c4-b406-26e367d34fb1'
+    - 'taxonomy_term:tags:c0ab1265-bb1a-491d-bb5c-45f4031a2ff7'
+    - 'taxonomy_term:tags:c3791170-d26e-4351-9de2-f9623acea9ea'
+    - 'taxonomy_term:tags:c3d8033f-1929-4d25-aa65-fadfc6a88bdb'
+    - 'taxonomy_term:tags:d6677400-8590-4ae3-8e8b-56eb9e46cbae'
     - 'taxonomy_term:tags:d9871794-7262-415a-a18e-fc784794b1c9'
+    - 'taxonomy_term:tags:e30b1fff-0abe-4d0d-9ea9-6d81ed242109'
+    - 'taxonomy_term:tags:ee257f7f-af25-4ce2-8f16-b6ec71bd2192'
+    - 'taxonomy_term:tags:f2798791-f4f2-4d39-993a-d1186cff2b80'
+    - 'taxonomy_term:tags:ffdc7cae-218e-4544-99e7-2dadb52b7178'
   module:
     - node
     - taxonomy
@@ -27,7 +57,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
-      title: 'Samuel Mortenson''s personal blog'
+      title: 'Andy Yulianto personal blog property syariah'
       fields:
         title:
           id: title
@@ -151,6 +181,15 @@ display:
             date_format: custom
             custom_date_format: 'D, d M y H:i:s O'
             timezone: ''
+            tooltip:
+              date_format: ''
+              custom_date_format: ''
+            time_diff:
+              enabled: false
+              future_format: '@interval hence'
+              past_format: '@interval ago'
+              granularity: 2
+              refresh: 60
           group_column: value
           group_columns: {  }
           group_rows: true
@@ -395,6 +434,7 @@ display:
         type: mini
         options:
           offset: 0
+          pagination_heading_level: h4
           items_per_page: 10
           total_pages: null
           id: 0
@@ -463,25 +503,18 @@ display:
           id: type
           table: node_field_data
           field: type
-          entity_type: node
-          entity_field: type
-          plugin_id: bundle
-          value:
-            blog: blog
-          expose:
-            operator_limit_selection: false
-            operator_list: {  }
-        field_tags_target_id:
-          id: field_tags_target_id
-          table: node__field_tags
-          field: field_tags_target_id
           relationship: none
           group_type: group
           admin_label: ''
-          plugin_id: taxonomy_index_tid
-          operator: or
+          entity_type: node
+          entity_field: type
+          plugin_id: bundle
+          operator: in
           value:
-            3: 3
+            all: all
+            blog: blog
+            gallery_item: gallery_item
+            work: work
           group: 1
           exposed: false
           expose:
@@ -511,7 +544,75 @@ display:
             default_group: All
             default_group_multiple: {  }
             group_items: {  }
-          reduce_duplicates: false
+        field_tags_target_id:
+          id: field_tags_target_id
+          table: node__field_tags
+          field: field_tags_target_id
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: taxonomy_index_tid
+          operator: or
+          value:
+            27: 27
+            28: 28
+            20: 20
+            3: 3
+            1: 1
+            6: 6
+            17: 17
+            16: 16
+            11: 11
+            19: 19
+            9: 9
+            10: 10
+            13: 13
+            15: 15
+            12: 12
+            14: 14
+            29: 29
+            25: 25
+            22: 22
+            18: 18
+            24: 24
+            26: 26
+            23: 23
+            4: 4
+            21: 21
+            8: 8
+            2: 2
+            7: 7
+            5: 5
+          group: 1
+          exposed: false
+          expose:
+            operator_id: ''
+            label: ''
+            description: ''
+            use_operator: false
+            operator: ''
+            operator_limit_selection: false
+            operator_list: {  }
+            identifier: ''
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+            reduce: false
+          is_grouped: false
+          group_info:
+            label: ''
+            description: ''
+            identifier: ''
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items: {  }
+          reduce_duplicates: true
           vid: tags
           type: select
           hierarchy: false
@@ -549,7 +650,6 @@ display:
         - 'languages:language_content'
         - 'languages:language_interface'
         - url.query_args
-        - user
         - 'user.node_grants:view'
         - user.permissions
       tags:
@@ -561,9 +661,24 @@ display:
     position: 1
     display_options:
       pager:
-        type: none
+        type: mini
         options:
           offset: 0
+          pagination_heading_level: h4
+          items_per_page: 10
+          total_pages: null
+          id: 0
+          tags:
+            next: ››
+            previous: ‹‹
+          expose:
+            items_per_page: false
+            items_per_page_label: 'Items per page'
+            items_per_page_options: '5, 10, 25, 50'
+            items_per_page_options_all: false
+            items_per_page_options_all_label: '- All -'
+            offset: false
+            offset_label: Offset
       style:
         type: rss
         options:
@@ -580,7 +695,11 @@ display:
           guid_field_options:
             guid_field: uuid
             guid_field_is_permalink: false
-      display_extenders: {  }
+      display_extenders:
+        metatag_display_extender:
+          metatags: {  }
+          tokenize: false
+        simple_sitemap_display_extender: {  }
       path: drupal-feed.xml
       sitename_title: false
     cache_metadata:
@@ -588,7 +707,7 @@ display:
       contexts:
         - 'languages:language_content'
         - 'languages:language_interface'
-        - user
+        - url.query_args
         - 'user.node_grants:view'
         - user.permissions
       tags:
