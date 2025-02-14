@@ -14,14 +14,15 @@ revision_log_message: {  }
 status:
   - value: true
 name:
-  - value: "Mosque\_"
+  - value: Komunitas-Positif
 description: {  }
 weight:
-  - value: 0
+  - value: 3
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: d5350251-b7c4-4bf9-ae1a-972ab5c87f68
 changed:
-  - value: '2025-02-12T10:30:10+00:00'
+  - value: '2025-02-14T01:02:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true

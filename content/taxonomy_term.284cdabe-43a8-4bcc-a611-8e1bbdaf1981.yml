@@ -15,15 +15,14 @@ status:
   - value: true
 name:
   - value: 'static site'
-description:
-  - value: null
-    format: null
+description: {  }
 weight:
   - value: 0
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: 2a152221-9ded-4067-9cd4-944aec19b78f
 changed:
-  - value: '2020-01-27T16:09:03+00:00'
+  - value: '2025-02-14T01:02:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
@@ -33,4 +32,3 @@ path:
   - alias: null
     pid: null
     langcode: en
-    pathauto: 0

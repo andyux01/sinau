@@ -15,15 +15,14 @@ status:
   - value: true
 name:
   - value: tome
-description:
-  - value: null
-    format: null
+description: {  }
 weight:
-  - value: 0
+  - value: 3
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: 2e9fa7ed-e655-467b-aed0-477b098f8738
 changed:
-  - value: '2020-01-27T16:09:03+00:00'
+  - value: '2025-02-14T01:04:18+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
@@ -33,4 +32,3 @@ path:
   - alias: null
     pid: null
     langcode: en
-    pathauto: 0

@@ -1,0 +1,32 @@
+uuid:
+  - value: 85ac6321-879b-439e-aa59-8602dad89124
+langcode:
+  - value: en
+vid:
+  - target_id: inspirasi
+    target_type: taxonomy_vocabulary
+    target_uuid: 98ba407d-2655-43af-be58-44068532182e
+revision_created:
+  - value: '2025-02-14T02:08:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  - value: true
+name:
+  - value: pengembangan-pribadi
+description: {  }
+weight:
+  - value: 6
+parent:
+  - target_id: null
+changed:
+  - value: '2025-02-14T02:14:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: /inspirasi/term/add-term-2
+    langcode: en

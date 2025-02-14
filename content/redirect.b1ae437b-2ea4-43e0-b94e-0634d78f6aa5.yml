@@ -1,0 +1,23 @@
+uuid:
+  - value: b1ae437b-2ea4-43e0-b94e-0634d78f6aa5
+hash:
+  - value: MuKXOQMjoGMmi0Opw1Huu6X-D98Zs463fD4H2Pc2UME
+type:
+  - value: redirect
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+redirect_source:
+  - path: inspirasi/term/add-term
+    query: {  }
+redirect_redirect:
+  - uri: 'internal:/taxonomy/term/65'
+    title: null
+    options: {  }
+language:
+  - value: en
+status_code:
+  - value: 301
+created:
+  - value: '2025-02-14T02:14:35+00:00'
+    format: 'Y-m-d\TH:i:sP'

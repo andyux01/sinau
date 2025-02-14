@@ -17,11 +17,12 @@ name:
   - value: berkah
 description: {  }
 weight:
-  - value: 0
+  - value: 2
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: 41744c49-0c9b-42db-a766-075d33f9aa3e
 changed:
-  - value: '2025-02-11T10:40:47+00:00'
+  - value: '2025-02-14T00:43:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
@@ -31,4 +32,3 @@ path:
   - alias: null
     pid: null
     langcode: en
-    pathauto: 1

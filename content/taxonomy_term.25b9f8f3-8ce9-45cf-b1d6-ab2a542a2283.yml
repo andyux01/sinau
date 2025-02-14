@@ -1,33 +1,33 @@
 uuid:
-  - value: 0fc32cb7-38ee-4a62-b5e2-6b0b80e77358
+  - value: 25b9f8f3-8ce9-45cf-b1d6-ab2a542a2283
 langcode:
   - value: en
 vid:
-  - target_id: tags
+  - target_id: inspirasi
     target_type: taxonomy_vocabulary
-    target_uuid: 6e882751-f962-49f8-9076-ae48a4aa42f9
+    target_uuid: 98ba407d-2655-43af-be58-44068532182e
 revision_created:
-  - value: '2025-02-12T10:30:10+00:00'
+  - value: '2025-02-14T02:07:58+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
 status:
   - value: true
 name:
-  - value: "Cami\_"
+  - value: bersantai
 description: {  }
 weight:
   - value: 0
 parent:
   - target_id: null
 changed:
-  - value: '2025-02-12T10:30:10+00:00'
+  - value: '2025-02-14T02:07:58+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
 revision_translation_affected:
   - value: true
 path:
-  - alias: null
+  - alias: ''
     pid: null
     langcode: en

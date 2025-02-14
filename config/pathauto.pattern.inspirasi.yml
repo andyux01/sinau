@@ -1,0 +1,22 @@
+uuid: 013ed28c-e7a2-411e-88cd-2ba59c2b6b9d
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: inspirasi
+label: inspirasi
+type: 'canonical_entities:taxonomy_term'
+pattern: '/inspirasi/term/[current-page:title]'
+selection_criteria:
+  f2993dee-fe21-4282-b702-da73724dbac7:
+    id: 'entity_bundle:taxonomy_term'
+    negate: false
+    uuid: f2993dee-fe21-4282-b702-da73724dbac7
+    context_mapping:
+      taxonomy_term: taxonomy_term
+    bundles:
+      inspirasi: inspirasi
+selection_logic: and
+weight: -5
+relationships: {  }

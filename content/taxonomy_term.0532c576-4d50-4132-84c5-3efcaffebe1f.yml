@@ -17,11 +17,12 @@ name:
   - value: sholat
 description: {  }
 weight:
-  - value: 0
+  - value: 1
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: d5350251-b7c4-4bf9-ae1a-972ab5c87f68
 changed:
-  - value: '2025-02-11T09:59:02+00:00'
+  - value: '2025-02-14T01:02:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
@@ -31,4 +32,3 @@ path:
   - alias: null
     pid: null
     langcode: en
-    pathauto: 1
