@@ -1,0 +1,36 @@
+uuid: 24703005-f064-4286-a0bb-4e347fa2abe3
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.inspirasi_pribadi
+  module:
+    - node
+    - views
+  theme:
+    - mortenson
+id: mortenson_views_block__inspirasi_pribadi_block_1
+theme: mortenson
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:inspirasi_pribadi-block_1'
+settings:
+  id: 'views_block:inspirasi_pribadi-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  context_mapping: {  }
+  views_label: ''
+  items_per_page: none
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      aktivitas_masjid: aktivitas_masjid
+      blog: blog
+      gallery_item: gallery_item
+      work: work
