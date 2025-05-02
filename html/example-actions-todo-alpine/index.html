@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="The homepage for Andy Yulianto - you can call me Pak Andy." />
+<link rel="canonical" href="http://default/example-actions-todo-alpine" />
+<link rel="icon" href="/system/temporary?file=favicon_3.png" />
+<meta property="og:site_name" content="Andy Yulianto Property Syariah" />
+<meta property="og:url" content="http://default/example-actions-todo-alpine" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@cintaulamaihsan" />
+<meta name="twitter:creator" content="@cintaulamaihsan" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://default/feed.xml" />
+    <title>| Andy Yulianto Property Syariah</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_mhBgh1KZDj2-s39NGxtLxv-A7bH8lSSUdFfUUPVrHOo.css?delta=0&amp;language=en&amp;theme=mortenson&amp;include=eJxlyLENgEAMA8CFEBkJheAXFI7RJw3bI2quPGo2spRGv3KpERbirUT2ytiG1Jj_P-HH9081aLsXXkAGHNs" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_zmF7D62sVp9sy18kzh4rfxNxnXz70EpG-qe7guraK_s.css?delta=1&amp;language=en&amp;theme=mortenson&amp;include=eJxlyLENgEAMA8CFEBkJheAXFI7RJw3bI2quPGo2spRGv3KpERbirUT2ytiG1Jj_P-HH9081aLsXXkAGHNs" />
+
+    <script src="/sites/default/files/js/js_PEqU_CIb90Y18l8wDXk7svUU0sSpcK8vwwv4gRPUX3w.js?scope=header&amp;delta=0&amp;language=en&amp;theme=mortenson&amp;include=eJwrTkvWT87PLcjPS80r0UutSMwtyEmNT0wuyczPK44vyU_Jj0_MKcjMS9UpTkuOh8rrQ4QA2ysX8Q"></script>
+
+  </head>
+  <body>
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <header class="mc-header container ">
+          <a href="/" class="mc-header__back">Back home</a>
+              <a href="/" class="mc-header__name">
+            Andy<br />Yulianto
+          </a>
+          </header>
+<main id="main-content">
+    <div>
+    <div data-drupal-messages-fallback class="hidden"></div>  <div x-data="alpineTodo({&quot;items&quot;:[],&quot;updateUrl&quot;:&quot;http:\/\/default\/sfc\/action\/example_actions_todo_alpine\/update?sfc_unique_id=example_actions_todo_alpine681545dd23254&amp;token=dvmOorT0W065tJjMZGX0_O7DVKyIKnlH5tZiGDjE5hI&quot;})" x-init="$watch('items', value => update(value))">>
+    <h2>Todo list</h2>
+    <ul>
+      <template x-for="(item, index) in items">
+        <li>
+          <div x-show="!showForm[item.id]">
+            <div x-text="item.text"></div>
+            <a @click="showForm[item.id] = true">Edit</a>
+            <a @click="items.splice(index, 1)">Remove</a>
+            <a @click="swap(index, index-1)" x-show="index > 0">Move up</a>
+            <a @click="swap(index, index+1)" x-show="index < items.length-1">Move down</a>
+          </div>
+          <form :id="$id('todo-form')" @submit.prevent="showForm[item.id] = false" x-show="showForm[item.id]">
+            <div x-id="['todo-item-text']">
+              <label :for="$id('todo-item-text')">Item text</label>
+              <input type="text" name="text" :id="$id('todo-item-text')" :value="item.text" x-model.debounce="item.text" required />
+            </div>
+            <input type="submit" value="Save" />
+          </form>
+        </li>
+      </template>
+    </ul>
+    <form id="todo-form" @submit.prevent="addItem">
+      <div x-id="['todo-add-text']">
+        <label for="$id('todo-add-text')">Item text</label>
+        <input type="text" name="text" id="$id('todo-add-text')" required x-model="addText" />
+      </div>
+      <input type="submit" value="Add" />
+    </form>
+  </div>
+  
+  
+
+  </div>
+
+</main>
+  <footer class="mc-footer container">
+    <ul class="mc-footer__menu">
+      <li><a href="/search">Search</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/work">Work</a></li>
+      <li><a href="/gallery">Gallery</a></li>
+      <li><a href="mailto:samuel@mortenson.coffee">Contact</a></li>
+    </ul>
+    <div class="mc-footer__copyright">©2025 Andy Yulianto</div>
+    <a class="mc-footer__rss" href="/feed.xml">
+      <span class="visually-hidden">RSS Feed</span>
+      <img alt="RSS feed icon" src="/core/misc/feed.svg" />
+    </a>
+  </footer>
+
+  </div>
+
+    
+    <script src="//unpkg.com/alpinejs@3.10.2"></script>
+
+  </body>
+</html>

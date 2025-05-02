@@ -1,0 +1,23 @@
+uuid:
+  - value: 125ce56f-ee4d-4fad-ae9f-2518e399dce8
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: COLLECTIE_TROPENMUSEUM_Bezoek_van_gouverneur-generaal_Fock_aan_de_Grote_Moskee_TMnr_60027935.jpg
+uri:
+  - value: 'public://inline-images/COLLECTIE_TROPENMUSEUM_Bezoek_van_gouverneur-generaal_Fock_aan_de_Grote_Moskee_TMnr_60027935.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 75517
+status:
+  - value: true
+created:
+  - value: '2025-05-02T23:03:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-05-02T23:06:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
