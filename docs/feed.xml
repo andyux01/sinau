@@ -1,0 +1,215 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://andyux01.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Samuel Mortenson&#039;s personal blog</title>
+    <link>https://andyux01.github.io/</link>
+    <description>The latest from my mind to yours.</description>
+    <language>en</language>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<item>
+  <title>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Rumah Impian yang Berkah
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</title>
+  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/rumah-properti-aman-berkah_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+Pernahkah kita membayangkan punya rumah impian? Rumah yang nyaman, indah, dan penuh berkah. Nah, dalam properti syariah, rumah impian itu bukan hanya sekadar tempat tinggal, tapi juga символ keberkahan.
+
+&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Wed, 12 Feb 25 03:51:45 +0000</pubDate>
+    <dc:creator>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Samuel Mortenson
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</dc:creator>
+    <guid isPermaLink="false">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+505498dd-6d1d-4be8-9f20-b172e51201e5
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<item>
+  <title>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Keuntungan Memiliki Properti
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</title>
+  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/keuntungan-memiliki-properti_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.
+
+&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Tue, 11 Feb 25 10:40:58 +0000</pubDate>
+    <dc:creator>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Samuel Mortenson
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</dc:creator>
+    <guid isPermaLink="false">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+4916ed03-1832-47ec-ae11-07b69149424f
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<item>
+  <title>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Menakar Nilai Jual Beli Bisnis Properti
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</title>
+  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/menakar-nilai-jual-beli-bisnis-properti_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.
+
+&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Tue, 11 Feb 25 10:33:56 +0000</pubDate>
+    <dc:creator>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Samuel Mortenson
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</dc:creator>
+    <guid isPermaLink="false">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+b60f1a1e-7822-4738-b428-82f5b5dc5d3b
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<item>
+  <title>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Tata Cara Sholat di Luar Rumah Saat Perjalanan Jauh
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</title>
+  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+Jamak dan qasar adalah keringanan yang diberikan oleh Islam bagi seorang muslim yang sedang dalam perjalanan jauh (minimal 80-96 km) untuk meringkas atau menggabungkan sholat fardhu. Qashar berarti meringkas rakaat sholat, sedangkan jamak berarti menggabungkan dua waktu sholat menjadi satu. Syarat-syarat untuk melakukan jamak dan qasar adalah perjalanan tersebut bukan untuk maksiat dan dilakukan dengan niat bepergian. Ketika berada di dalam kendaraan, seorang muslim diperbolehkan untuk sholat dengan syarat-syarat tertentu, seperti berusaha menghadap kiblat semaksimal mungkin. Namun, jika sholat tidak dilakukan dengan sempurna atau ditinggalkan, maka wajib untuk mengqadha atau mengulang sholat tersebut.
+
+&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Tue, 11 Feb 25 09:53:38 +0000</pubDate>
+    <dc:creator>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Samuel Mortenson
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</dc:creator>
+    <guid isPermaLink="false">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+1f76f371-9f3d-446a-be43-e79db12637d8
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
+
