@@ -17,11 +17,12 @@ name:
   - value: property
 description: {  }
 weight:
-  - value: 0
+  - value: 3
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: 0c37a2b4-8006-4aa0-a9cb-ed71f1f390ce
 changed:
-  - value: '2025-02-11T09:59:02+00:00'
+  - value: '2025-02-14T01:02:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
@@ -31,4 +32,3 @@ path:
   - alias: null
     pid: null
     langcode: en
-    pathauto: 1

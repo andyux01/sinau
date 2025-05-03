@@ -17,11 +17,12 @@ name:
   - value: "Moskee\_"
 description: {  }
 weight:
-  - value: 0
+  - value: 8
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: 0532c576-4d50-4132-84c5-3efcaffebe1f
 changed:
-  - value: '2025-02-12T10:30:10+00:00'
+  - value: '2025-02-14T01:02:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true

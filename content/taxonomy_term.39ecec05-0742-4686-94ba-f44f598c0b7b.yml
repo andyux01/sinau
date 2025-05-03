@@ -19,9 +19,10 @@ description: {  }
 weight:
   - value: 0
 parent:
-  - target_id: null
+  - target_type: taxonomy_term
+    target_uuid: c3791170-d26e-4351-9de2-f9623acea9ea
 changed:
-  - value: '2025-02-12T03:57:34+00:00'
+  - value: '2025-02-14T01:02:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true

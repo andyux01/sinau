@@ -1,0 +1,32 @@
+uuid:
+  - value: 9bb06dc2-29aa-4b57-bebf-95e472ced1a6
+langcode:
+  - value: en
+vid:
+  - target_id: inspirasi
+    target_type: taxonomy_vocabulary
+    target_uuid: 98ba407d-2655-43af-be58-44068532182e
+revision_created:
+  - value: '2025-02-14T02:08:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  - value: true
+name:
+  - value: kepemimpinan
+description: {  }
+weight:
+  - value: 3
+parent:
+  - target_id: null
+changed:
+  - value: '2025-02-14T02:14:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: /inspirasi/term/add-term-1
+    langcode: en

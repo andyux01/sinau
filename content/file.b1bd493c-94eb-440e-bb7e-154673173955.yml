@@ -1,0 +1,23 @@
+uuid:
+  - value: b1bd493c-94eb-440e-bb7e-154673173955
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: Great_mosque_in_Medan_deli.jpg
+uri:
+  - value: 'public://gallery/Great_mosque_in_Medan_deli.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 199140
+status:
+  - value: true
+created:
+  - value: '2025-05-02T22:59:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-05-02T23:06:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
