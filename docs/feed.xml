@@ -1,215 +1,131 @@
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://andyux01.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://andy.propertysyariah.biz.id/">
   <channel>
-    <title>Samuel Mortenson&#039;s personal blog</title>
-    <link>https://andyux01.github.io/</link>
+    <title>Blog Pribadi Andy Property Syariah biz</title>
+    <link>https://andy.propertysyariah.biz.id/</link>
     <description>The latest from my mind to yours.</description>
     <language>en</language>
     
-    
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+    <item>
+  <title>Masjid Raya Al-Mashun dan Kesultanan Deli</title>
+  <link>https://andy.propertysyariah.biz.id/aktivitas-masjid/masjid-raya-al-mashun-dan-kesultanan-deli</link>
+  <description><![CDATA[Masjid Raya Al-Mashun (]]></description>
+  <pubDate>Fri, 02 May 25 22:56:45 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">2a4debd3-f601-4bb8-9c20-9f42c4ec4089</guid>
+    </item>
 <item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Rumah Impian yang Berkah
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/rumah-properti-aman-berkah_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Pernahkah kita membayangkan punya rumah impian? Rumah yang nyaman, indah, dan penuh berkah. Nah, dalam properti syariah, rumah impian itu bukan hanya sekadar tempat tinggal, tapi juga символ keberkahan.
-
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
+  <title>Pusat Komunitas Muslim Quba Komunitas Muslim</title>
+  <link>https://andy.propertysyariah.biz.id/aktivitas-masjid/pusat-komunitas-muslim-quba-komunitas-muslim</link>
+  <description><![CDATA[asjid adalah rumah Allah, tempat kita beribadah, mendekatkan diri kepada-Nya, dan mempererat tali silaturahmi. Namun, masjid memiliki peran yang jauh lebih besar dari sekadar tempat salat? Dari zaman Nabi Ibrahim AS membangun Ka'bah di Mekah, masjid telah menjadi jantung komunitas Muslim di seluruh dunia. Mekah adalah kota suci bagi umat Islam. Di sanalah terdapat Ka'bah, bangunan berbentuk kubus yang menjadi kiblat salat seluruh umat Islam. Ka'bah dibangun oleh Nabi Ibrahim AS dan putranya, Nabi Ismail AS, sebagai simbol tauhid dan penyembahan kepada Allah SWT.]]></description>
+  <pubDate>Thu, 13 Feb 25 09:13:57 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">b1323e1c-102b-4594-b620-3beca0af5f00</guid>
+    </item>
+<item>
+  <title>Kegiatan Sosial Masjid Kubah Emas</title>
+  <link>https://andy.propertysyariah.biz.id/aktivitas-masjid/kegiatan-sosial-masjid-kubah-emas</link>
+  <description><![CDATA[Pusat Kegiatan Sosial
+Masjid dapat menjadi tempat untuk mengadakan kegiatan sosial, seperti pengajian, seminar, diskusi, dan kegiatan-kegiatan lainnya yang bermanfaat bagi masyarakat.
+Arsitektur Masjid
+Ruang utama masjid memiliki ukuran 45×57 meter, dapat menampung sebanyak 8.000 jamaah. Masjid ini memiliki 6 minaret berbentuk segi enam yang tingginya masing-masing 40 meter. 6 minaret ini dibalut granit abu-abu dari itali dengan ornamen yang melingkar. Pada puncak minaret terdapat kubah berlapis mozaik emas 24 karat.]]></description>
+  <pubDate>Thu, 13 Feb 25 00:37:31 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">d537ce8d-d63a-44d6-aaf2-1d7599c316d8</guid>
+    </item>
+<item>
+  <title>Masjid Agung Kediri Juga Berfungsi sebagai Pusat Pendidikan Agama</title>
+  <link>https://andy.propertysyariah.biz.id/aktivitas-masjid/masjid-agung-kediri-juga-berfungsi-sebagai-pusat-pendidikan-agama</link>
+  <description><![CDATA[Masjid Agung Kota Kediri yang saat ini memang bukanlah bangunan masjid pertama, karena sebelumnya sudah ada Masjid Agung dengan kubah besar tanpa menara yang berdiri sejak abad ke-17. Bangunan masjid yang sekarang ini adalah bangunan hasil renovasi pada tahun 2006. Bangunan baru ini memiliki tiga lantai dan memadukan arsitektur timur tengah dan nusantara.Masjid ini memiliki satu bangunan menara yang menjulang tinggi, dan ditempatkan disisi tenggara pada bangunan masjidnya.&nbsp;]]></description>
+  <pubDate>Wed, 12 Feb 25 11:38:06 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">a5d1bd3a-7131-4c63-b47b-f4c9841b5006</guid>
+    </item>
+<item>
+  <title>Lingkungan Masjid Baiturrahim dan Rumah untuk Ibadah </title>
+  <link>https://andy.propertysyariah.biz.id/aktivitas-masjid/lingkungan-masjid-baiturrahim-dan-rumah-untuk-ibadah</link>
+  <description><![CDATA[Kita semua tentu ingin memiliki rumah yang tidak hanya nyaman dan aman, tetapi juga membawa berkah bagi keluarga. Nah, konsep lingkungan Islami dalam properti bisa menjadi pilihan yang tepat untuk mewujudkan impian tersebut.
+Lingkungan Islami
+Lingkungan Islami adalah lingkungan perumahan yang dirancang dan dibangun dengan memperhatikan nilai-nilai dan prinsip-prinsip Islam. Tujuannya adalah untuk menciptakan suasana yang kondusif bagi keluarga muslim untuk menjalankan kehidupan yang sesuai dengan ajaran agama.]]></description>
+  <pubDate>Wed, 12 Feb 25 11:29:26 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">df4b3fc3-6c27-444f-bbe5-164edc47076f</guid>
+    </item>
+<item>
+  <title>Melakukan Sholat di Masjid Raya Xi'an, Masjid Tertua di China yang Dibangun Saat Dinasti Tang Tahun 742</title>
+  <link>https://andy.propertysyariah.biz.id/aktivitas-masjid/melakukan-sholat-di-masjid-raya-xian-masjid-tertua-di-china-yang-dibangun-saat</link>
+  <description><![CDATA[Tempat Ibadah
+Fungsi utama masjid adalah sebagai tempat untuk melaksanakan salat berjamaah, membaca Al-Qur'an, berzikir, dan berdoa kepada Allah SWT.
+Salah satu masjid tertua dan terbesar di China adalah Masjid Raya Xi'an.
+Masjid Xi'an berada di Kota Xi'an, Provinsi Shaanxi, China, yang dibangun tahun 742 masehi.
+Kota Xi'an di Provinsi Shaanxi berjarak sekitar 1.073 km dari Beijing, ibukota China atau Tiongkok.
+&nbsp;]]></description>
+  <pubDate>Wed, 12 Feb 25 10:23:01 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">e77ebad6-4c90-464a-97b8-226d9fea70b4</guid>
+    </item>
+<item>
+  <title>Rumah Impian yang Berkah</title>
+  <link>https://andy.propertysyariah.biz.id/blog/rumah-properti-aman-berkah</link>
+  <description><![CDATA[Pernahkah kita membayangkan punya rumah impian? Rumah yang nyaman, indah, dan penuh berkah. Nah, dalam properti syariah, rumah impian itu bukan hanya sekadar tempat tinggal, tapi juga символ keberkahan.
+]]></description>
   <pubDate>Wed, 12 Feb 25 03:51:45 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-505498dd-6d1d-4be8-9f20-b172e51201e5
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">505498dd-6d1d-4be8-9f20-b172e51201e5</guid>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
 <item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Keuntungan Memiliki Properti
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/keuntungan-memiliki-properti_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.
-
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
+  <title>Keuntungan Memiliki Properti</title>
+  <link>https://andy.propertysyariah.biz.id/blog/keuntungan-memiliki-properti</link>
+  <description><![CDATA[Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.
+]]></description>
   <pubDate>Tue, 11 Feb 25 10:40:58 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-4916ed03-1832-47ec-ae11-07b69149424f
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">4916ed03-1832-47ec-ae11-07b69149424f</guid>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
 <item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Menakar Nilai Jual Beli Bisnis Properti
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/menakar-nilai-jual-beli-bisnis-properti_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.
-
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
+  <title>Menakar Nilai Jual Beli Bisnis Properti</title>
+  <link>https://andy.propertysyariah.biz.id/blog/menakar-nilai-jual-beli-bisnis-properti</link>
+  <description><![CDATA[Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.
+]]></description>
   <pubDate>Tue, 11 Feb 25 10:33:56 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-b60f1a1e-7822-4738-b428-82f5b5dc5d3b
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">b60f1a1e-7822-4738-b428-82f5b5dc5d3b</guid>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
 <item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Tata Cara Sholat di Luar Rumah Saat Perjalanan Jauh
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Jamak dan qasar adalah keringanan yang diberikan oleh Islam bagi seorang muslim yang sedang dalam perjalanan jauh (minimal 80-96 km) untuk meringkas atau menggabungkan sholat fardhu. Qashar berarti meringkas rakaat sholat, sedangkan jamak berarti menggabungkan dua waktu sholat menjadi satu. Syarat-syarat untuk melakukan jamak dan qasar adalah perjalanan tersebut bukan untuk maksiat dan dilakukan dengan niat bepergian. Ketika berada di dalam kendaraan, seorang muslim diperbolehkan untuk sholat dengan syarat-syarat tertentu, seperti berusaha menghadap kiblat semaksimal mungkin. Namun, jika sholat tidak dilakukan dengan sempurna atau ditinggalkan, maka wajib untuk mengqadha atau mengulang sholat tersebut.
-
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
+  <title>Tata Cara Sholat di Luar Rumah Saat Perjalanan Jauh</title>
+  <link>https://andy.propertysyariah.biz.id/blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh</link>
+  <description><![CDATA[Jamak dan qasar adalah keringanan yang diberikan oleh Islam bagi seorang muslim yang sedang dalam perjalanan jauh (minimal 80-96 km) untuk meringkas atau menggabungkan sholat fardhu. Qashar berarti meringkas rakaat sholat, sedangkan jamak berarti menggabungkan dua waktu sholat menjadi satu. Syarat-syarat untuk melakukan jamak dan qasar adalah perjalanan tersebut bukan untuk maksiat dan dilakukan dengan niat bepergian. Ketika berada di dalam kendaraan, seorang muslim diperbolehkan untuk sholat dengan syarat-syarat tertentu, seperti berusaha menghadap kiblat semaksimal mungkin. Namun, jika sholat tidak dilakukan dengan sempurna atau ditinggalkan, maka wajib untuk mengqadha atau mengulang sholat tersebut.
+]]></description>
   <pubDate>Tue, 11 Feb 25 09:53:38 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-1f76f371-9f3d-446a-be43-e79db12637d8
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">1f76f371-9f3d-446a-be43-e79db12637d8</guid>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
+<item>
+  <title>Tugas remidi</title>
+  <link>https://andy.propertysyariah.biz.id/work/tugas-remidi</link>
+  <description><![CDATA[window.__appCDN="https://cdn.webcomponents.psu.edu/cdn/";The of complacency ]]></description>
+  <pubDate>Wed, 05 Jun 24 23:17:20 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">4c6c07d1-b633-4c9b-96a9-c4a425646b9c</guid>
+    </item>
+<item>
+  <title>Jalan-jalan Pagi</title>
+  <link>https://andy.propertysyariah.biz.id/gallery/jalan-jalan-pagi</link>
+  <description><![CDATA[Suasana ketika jalan-jalan pagi
+]]></description>
+  <pubDate>Wed, 29 May 24 01:46:23 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">562da94c-189c-43f7-bc6a-7a1c06cbd26d</guid>
+    </item>
+<item>
+  <title>Belajar Property Syariah</title>
+  <link>https://andy.propertysyariah.biz.id/gallery/Tentang-Kami-Andy-Yulianto</link>
+  <description><![CDATA[Ingin memiliki rumah idaman yang sesuai dengan syariah? Kami siap membantu Anda. Kami menawarkan berbagai pilihan properti syariah dengan akad yang jelas dan transparan. Kami akan menjelaskan secara detail sehingga Anda dapat memilih yang paling sesuai. Dengan kami, Anda tidak hanya mendapatkan properti, tetapi juga ketenangan hati.
+]]></description>
+  <pubDate>Sat, 01 Feb 20 03:00:40 +0000</pubDate>
+    <dc:creator>Andy Yulianto</dc:creator>
+    <guid isPermaLink="false">7dbf04fa-7a4e-4beb-b2ed-ef568e3df2ad</guid>
+    </item>
 
   </channel>
 </rss>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
-
